@@ -44,7 +44,7 @@ public class JavaSetImplementationTest {
 
     @Test
     public void hashSetTest() {
-        assertEquals(this.hashSet.size(), 9);
+        assertEquals(this.hashSet.size(), 10);
     }
 
     @Test
@@ -70,7 +70,7 @@ public class JavaSetImplementationTest {
 
     @Test
     public void linkedHashSetTest() {
-        assertEquals(this.linkedHashSet.size(), 9);
+        assertEquals(this.linkedHashSet.size(), 10);
 
         assertEquals(CollectionUtils.getIndex(this.linkedHashSet, "Test"), 0);
         assertEquals(CollectionUtils.getIndex(this.linkedHashSet, "Test22"), 1);
