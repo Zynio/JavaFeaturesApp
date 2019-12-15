@@ -1,3 +1,4 @@
 # JavaFeaturesApp
 
-Testy wlasciwoscy Javy (Głównie kolekcji)
+Testy wlasciwoscy Javy (Głównie kolekcji). 
+Root napisany za pomocą Junit.
